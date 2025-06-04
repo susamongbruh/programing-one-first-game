@@ -1,7 +1,7 @@
 with (other)
 {
 	hp--;
-		image_index = 1;
+		sprite_index = skeleton_hurt;
 }
 
 instance_destroy();

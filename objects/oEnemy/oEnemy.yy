@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"skeleton_walk",
+    "path":"sprites/skeleton_walk/skeleton_walk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

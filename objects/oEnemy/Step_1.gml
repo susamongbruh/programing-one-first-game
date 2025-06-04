@@ -1,1 +1,1 @@
-image_index = 0;
+sprite_index = skeleton_walk;
